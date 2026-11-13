@@ -1,3 +1,7 @@
 Lab 6/.coverage
 Lab 6/__pycache__/
 Lab 6/.pytest_cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.hypothesis/
